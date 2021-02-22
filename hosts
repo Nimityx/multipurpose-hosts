@@ -1,0 +1,47 @@
+# Title: Multipurpose Hosts, hosts to block ads and protect your privacy and security
+# Homepage: https://github.com/Nimityx/multipurpose-hosts
+# Author: Nimityx | https://github.com/Nimityx
+# Description: Hosts to block ads and protect your privacy and security
+
+# Rules contributed by Nimityx
+# https://github.com/Nimityx
+
+# Ads
+0.0.0.0 ad.buzzvil.com
+0.0.0.0 adsrvr.org
+0.0.0.0 hk3-bid.adsrvr.org
+
+# Google
+0.0.0.0 googletagmanager.com
+0.0.0.0 google-analytics.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+
+# Facebook
+0.0.0.0 connect.facebook.net
+0.0.0.0 graph.facebook.com
+
+# Instagram
+0.0.0.0 graph.instagram.com
+
+# WhatsApp
+0.0.0.0 privatestats.whatsapp.net
+0.0.0.0 graph.whatsapp.net
+0.0.0.0 crashlogs.whatsapp.net
+0.0.0.0 graph.whatsapp.com
+
+# Github
+0.0.0.0 collector.githubapp.com
+
+# Amazon
+0.0.0.0 amazon-adsystem.com
+
+# Malware
+0.0.0.0 opengolad.com
+0.0.0.0 vkautotech.in
+0.0.0.0 innovaccer.com
+0.0.0.0 soberlifeco.com
+0.0.0.0 arizonacode.bplaced.net
