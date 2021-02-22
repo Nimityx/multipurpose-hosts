@@ -10,7 +10,7 @@ Hosts to block ads and protect your privacy and security
 - [uBlock Origin](https://github.com/gorhill/uBlock/)
 
 ## Contributing
-1.  Fork it (https://github.com/Nimityx/WhatsappSpyBlocker/fork)
+1.  Fork it (https://github.com/Nimityx/multipurpose-hosts/fork)
 2.  Create your feature branch (git checkout -b my-new-feature)
 3.  Commit your changes (git commit -am 'Add some feature')
 4.  Push to the branch (git push origin my-new-feature)
