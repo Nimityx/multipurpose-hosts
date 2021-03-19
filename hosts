@@ -269,8 +269,5 @@
 0.0.0.0 lbsapp.cn.goolink.org
 
 # Malware
-0.0.0.0 opengolad.com
-0.0.0.0 vkautotech.in
-0.0.0.0 innovaccer.com
-0.0.0.0 soberlifeco.com
-0.0.0.0 arizonacode.bplaced.net
+# Moved to https://github.com/Nimityx/malwarehosts
+# https://raw.githubusercontent.com/Nimityx/malwarehosts/main/hosts
