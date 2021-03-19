@@ -12,6 +12,22 @@
 0.0.0.0 adsrvr.org
 0.0.0.0 hk3-bid.adsrvr.org
 
+# Analytics
+0.0.0.0 assets.adobedtm.com
+0.0.0.0 demdex.net
+0.0.0.0 dpm.demdex.net
+0.0.0.0 usanetworks.demdex.net
+0.0.0.0 omtrdc.net
+0.0.0.0 sc.omtrdc.net
+0.0.0.0 nbcume.sc.omtrdc.net
+0.0.0.0 tt.omtrdc.net
+0.0.0.0 usanetworks.tt.omtrdc.net
+0.0.0.0 everesttech.net
+0.0.0.0 cm.everesttech.net
+0.0.0.0 scorecardresearch.com
+0.0.0.0 b.scorecardresearch.com
+0.0.0.0 sb.scorecardresearch.com
+
 # Google
 0.0.0.0 googletagmanager.com
 0.0.0.0 www.googletagmanager.com
